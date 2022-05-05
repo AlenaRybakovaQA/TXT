@@ -1,0 +1,10 @@
+Number bugs 14
+Severity Hight
+Summary Десктопное приложение после установки через инсталятор и запуска, открывается свернутым
+Steps to reproduce 1. Установить приложение через инсталятор
+Steps to reproduce 2. Запустить приложение по exe файлу
+Expected result Появилось окно приложения на рабочем столе
+Actual result Окно приложения не появляется, приложение находится свернутым в трее
+Reproducibility Всегда
+Attachments https://drive.google.com/file/d/1sAYyKiKgC8hhOdXOU_Ju7b2nlIFc_m5i/view?usp=sharing
+Дата оформления бага 02.05.2022
